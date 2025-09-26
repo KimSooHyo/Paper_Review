@@ -13,6 +13,7 @@ https://arxiv.org/pdf/2005.12872
 > 
 ## DETR 구조
 ![](https://velog.velcdn.com/images/smox_i/post/0113e199-3995-494b-a650-0fef8e14ea2e/image.png)
+
 DETR는 CNN, Transformer(Encoder, Decoder), FFN(Feed Forward Network)의 단계로 구성되어있다
 ### 1. CNN Backbone
 - CNN 모델을 사용하여(C, H, W) 형태의 특징 맵 추출
