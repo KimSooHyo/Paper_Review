@@ -3,13 +3,23 @@ AI 분야의 논문 리뷰를 정리하는 공간입니다.
 
 ---
 
-## 🗂️ 분야별 정리
+## 🗂️ NLP
 
-| 분야 | 논문 | 리뷰 | 코드 |
-|------|------|------|------|
-| NLP | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (RAG, 2020) | [Review](NLP/RAG/review.md) | - |
-| CV  | End-to-End Object Detection with Transformers (DETR, 2020) | [Review](CV/DETR/review.md) | - |
-| DL  | Understanding the Difficulty of Training Deep Feedforward Neural Networks (Xavier Init, 2010) | [Review](DL/XavierInit/review.md) | - |
+| 논문 | 리뷰 | 코드 |
+|------|------|------|
+| Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (RAG, 2020) | [Review](NLP/RAG/review.md) | - |
+
+## 🗂️ CV
+
+| 논문 | 리뷰 | 코드 |
+|------|------|------|
+| End-to-End Object Detection with Transformers (DETR, 2020) | [Review](CV/DETR/review.md) | - |
+
+## 🗂️ DL
+
+| 논문 | 리뷰 | 코드 |
+|------|------|------|
+| Understanding the Difficulty of Training Deep Feedforward Neural Networks (Xavier Init, 2010) | [Review](DL/Xavier_Initialization/review.md) | - |
 
 ---
 
