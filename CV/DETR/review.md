@@ -1,5 +1,9 @@
 # End-to-End Object Detection with Transformers
 
+https://arxiv.org/pdf/2005.12872
+
+---
+
 ![](https://velog.velcdn.com/images/smox_i/post/50586a47-851d-469d-85ac-1472fbefa2c6/image.png)
 
 - 객체 탐지(Object Detection)를 '직접적인 집합 예측(direct set prediction)' 문제로 재정의하는 새로운 프레임워크
