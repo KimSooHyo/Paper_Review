@@ -93,7 +93,7 @@ $$P(w_{i})=1-\sqrt{\frac{t}{f(w_{i})}}$$
 
 ---
 
-### 🚀 결론
+### 결론
 
 이 논문은 대규모 텍스트 데이터로부터 고품질의 단어 및 구 벡터를 효율적으로 학습하는 Skip-gram 모델과 핵심 최적화 기법들(Negative Sampling, Subsampling)을 제안
 
