@@ -15,6 +15,7 @@ AI 분야의 논문 리뷰를 정리하는 공간입니다.
 | 논문 | 리뷰 | 코드 |
 |------|------|------|
 | End-to-End Object Detection with Transformers (DETR, 2020) | [Review](CV/DETR/review.md) | - |
+| NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (NeRF, 2020) | [Review](CV/NeRF/review.md) | - |
 
 ## 🗂️ DL
 
