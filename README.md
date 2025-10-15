@@ -22,6 +22,7 @@ AI 분야의 논문 리뷰를 정리하는 공간입니다.
 | 논문 | 리뷰 | 코드 |
 |------|------|------|
 | Understanding the Difficulty of Training Deep Feedforward Neural Networks (Xavier Init, 2010) | [Review](DL/Xavier_Initialization/review.md) | - |
+| Neural Collaborative Filtering (NCF, 2017) | [Review](DL/NCF/review.md) | - |
 
 ---
 
