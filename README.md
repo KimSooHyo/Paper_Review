@@ -7,7 +7,7 @@ AI 분야의 논문 리뷰를 정리하는 공간입니다.
 
 | 논문 | 리뷰 | 코드 |
 |------|------|------|
-| WaveNet: A Generative Model for Raw Audio (WaveNet, 2016) | [Review](Audio/Audio_Generation/review.md) | [Code](Audio/Audio_Generation/WaveNet/WaveNet_Code.ipynb) |
+| WaveNet: A Generative Model for Raw Audio (WaveNet, 2016) | [Review](Audio/Audio_Generation/WaveNet/review.md) | [Code](Audio/Audio_Generation/WaveNet/WaveNet_Code.ipynb) |
 
 ## 🗂️ NLP
 
