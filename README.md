@@ -15,6 +15,7 @@ AI 분야의 논문 리뷰를 정리하는 공간입니다.
 |------|------|------|
 | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (RAG, 2020) | [Review](NLP/RAG/review.md) | - |
 | Distributed Representations of Words and Phrases and their Compositionality (2013) | [Review](NLP/Word2Vec/Negative_Sampling_and_Subsampling/review.md)| - |
+| Lost in the Middle: How Language Models Use Long Contexts (2023) | [Review](NLP/Lost_in_The_Middle_review.md)| - |
 
 ## 🗂️ CV
 
