@@ -1,6 +1,10 @@
-## GloVe(Global Vectors for Word Representation)란?
+# GloVe: Global Vectors for Word Representation
 
 https://nlp.stanford.edu/pubs/glove.pdf
+
+---
+
+## GloVe(Global Vectors for Word Representation)란?
 
 > 카운트 기반과 예측 기반을 모두 사용하는 임베딩 방법론
 > 
